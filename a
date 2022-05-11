@@ -1,0 +1,1 @@
+{"level":"\u001b[31merror\u001b[0m","time":"2022-05-11T09:44:15.548-0400","msg":"error when trying to prepare get user statement","error":"Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'id, first_name, last_name, email, date_created, status FROM users WHERE id=?' at line 1"}
