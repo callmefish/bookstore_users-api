@@ -15,6 +15,7 @@ func NewError(msg string) error {
 	return errors.New(msg)
 }
 
+// test a little
 func NewBadRequestError(message string) *RestErr {
 	return &RestErr{
 		Message: message,
